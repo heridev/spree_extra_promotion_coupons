@@ -3,3 +3,18 @@
 
 en:
   hello: "Hello world"
+  spree:
+    product_rule:
+      choose_option_value: 'Select the option values'
+    promotion_rule_types:
+      product_with_option_value_rule:
+        name: Rule for the discount in a product with an option value
+        description: 'Rules for the discount in a product with an option value (eg: Terra, serylium, open road, etc)'
+    promotion_action_types:
+      upgrade_promotion_action:
+        name: Upgrade promotion
+        description: Perform and upgrade promotion
+      product_with_option_value_action:
+        name: Action for the discount in a product with an option value
+        description: 'Action for the discount in a product with an option value (eg: Terra, serylium, open road, etc)'
+

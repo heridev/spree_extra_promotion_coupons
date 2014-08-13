@@ -1,0 +1,12 @@
+<div class="field alpha omega eight columns">
+  <%= label_tag "#{param_prefix}_option_value_ids_string", Spree.t('product_rule.choose_option_value') %>
+  <%= hidden_field_tag "#{param_prefix}[option_value_ids_string]",
+                        promotion_rule.option_value_ids.join(','),
+                        class: 'option_value_picker fullwidth' %>
+</div>
+
+<%= javascript_tag do %>
+  Spree.routes.option_values_search = "<%= spree.api_option_values_url(:format => 'json') %>";
+  $('.option_value_picker').optionValueAutocomplete();
+<% end %>
+
