@@ -1,1 +1,1 @@
-//= require admin/spree_backend
+//= require admin/option_value_picker
