@@ -1,7 +1,23 @@
-SpreeExtraPromotionCoupons
+Spree Extra Promotion Coupons
 ==========================
 
-Introduction goes here.
+This extension includes some of the coupons that I have already develop
+for some sites the list about coupon codes are:
+
+#### Promotion coupon for product with option values
+
+This means that you can apply for example a discount to all the products
+that have a specific option values if you know a little about Spree you
+know that an option value can be the size(small, large, extra large,
+etc) or a color also can be an option value maybe for women or men and now you can give a discount to
+all the products that include one of those option values that you select
+from the admin section
+
+#### New calculator action to set a price for products promotion
+
+Now if you select this new action type 'Set a price for the product' now
+if the rules for the coupon apply for a product now you can specify the
+exact price you wan to offer that product or those products
 
 Installation
 ------------

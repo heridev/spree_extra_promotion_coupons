@@ -3,3 +3,15 @@
 
 en:
   hello: "Hello world"
+  spree:
+    product_rule:
+      choose_option_value: 'Select the option values'
+    promotion_rule_types:
+      product_with_option_value_rule:
+        name: Apply for all the products that have one of the following option values
+        description: 'Rules for the discount in a product with an option value (eg: small, blue, large, extra large, etc)'
+    promotion_action_types:
+      product_with_option_value_action:
+        name: Set a price for the product
+        description: Action to select the price for the product that apply this new discount
+
