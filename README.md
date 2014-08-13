@@ -1,6 +1,8 @@
 Spree Extra Promotion Coupons
 ==========================
 
+#### The current master branch uses Spree 2-2-stable
+
 This extension includes some of the coupons that I have already develop
 for some sites the list about coupon codes are:
 
