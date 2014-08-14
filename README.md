@@ -23,7 +23,7 @@ exact price you wan to offer that product or those products
 
 #### If you want to how you can use it take a look at this video:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/1syikOrPDtk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/1syikOrPDtk" frameborder="0" allowfullscreen></iframe>
 
 Installation
 ------------
